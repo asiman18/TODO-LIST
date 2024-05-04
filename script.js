@@ -1,1 +1,0 @@
-const Nodellist = document.querySelector()
